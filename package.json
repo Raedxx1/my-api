@@ -1,0 +1,20 @@
+{
+  "name": "levelup-api",
+  "version": "1.0.0",
+  "description": "API to generate level up images",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "canvas": "^2.11.2",
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14.x"
+  },
+  "keywords": [],
+  "author": "Your Name",
+  "license": "MIT"
+}
